@@ -29,7 +29,7 @@ services:
   name: mysql
   plan: standard
   env: docker
-  repo: https://github.com/render-examples/ghost
+  repo: https://github.com/FelipeRivera/GhostTests3.4.2
   autoDeploy: false
   disk:
     name: mysql
