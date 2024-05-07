@@ -7,7 +7,7 @@
   "database": {
     "client": "mysql",
     "connection": {
-      "host": "mysql-db",
+      "host": "mysql-db1",
       "port": 3306,
       "user": "admin",
       "password": "DATABASE_PASSWORD",
